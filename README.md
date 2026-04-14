@@ -54,7 +54,6 @@ Documentation: Keep clear notes of each query's objective, approach, and results
 
 
 **Results and Insights**
-This section will include your analysis findings:
 Sales Insights:**Fashion Accessories** with highest sales among all categories 
 and preferred payment method is **CREDIT CARD**
 Profitability: **Fashion Accessories** is the most profitable product category
