@@ -54,8 +54,11 @@ Documentation: Keep clear notes of each query's objective, approach, and results
 
 
 **Results and Insights**
+
 Sales Insights:**Fashion Accessories** with highest sales among all categories 
 and preferred payment method is **CREDIT CARD**
+
 Profitability: **Fashion Accessories** is the most profitable product category
+
 Customer Behavior: For the majority of customers **Afternoon (12:00 to 17:00)** is
 the peak shopping hours.
